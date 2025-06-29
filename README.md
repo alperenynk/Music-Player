@@ -1,4 +1,4 @@
-# Java Console Music Player 🎵
+# Music Player 🎵
 
 This is a simple console-based music player built with Java using `javax.sound.sampled`.  
 It supports `.wav`, `.au`, and `.aiff` audio formats.
